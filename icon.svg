@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#FBF9F4"/>
+  <g fill="#EFEAE0">
+    <circle cx="64" cy="64" r="3"/><circle cx="160" cy="64" r="3"/><circle cx="256" cy="64" r="3"/><circle cx="352" cy="64" r="3"/><circle cx="448" cy="64" r="3"/>
+    <circle cx="64" cy="160" r="3"/><circle cx="160" cy="160" r="3"/><circle cx="352" cy="160" r="3"/><circle cx="448" cy="160" r="3"/>
+    <circle cx="64" cy="256" r="3"/><circle cx="160" cy="256" r="3"/><circle cx="352" cy="256" r="3"/><circle cx="448" cy="256" r="3"/>
+    <circle cx="64" cy="352" r="3"/><circle cx="160" cy="352" r="3"/><circle cx="352" cy="352" r="3"/><circle cx="448" cy="352" r="3"/>
+    <circle cx="64" cy="448" r="3"/><circle cx="160" cy="448" r="3"/><circle cx="256" cy="448" r="3"/><circle cx="352" cy="448" r="3"/><circle cx="448" cy="448" r="3"/>
+  </g>
+  <rect x="38" y="38" width="436" height="436" fill="none" stroke="#B54A3F" stroke-width="13"/>
+  <rect x="56" y="56" width="400" height="400" fill="none" stroke="#B54A3F" stroke-width="3"/>
+  <g fill="#B54A3F">
+    <rect x="78" y="78" width="11" height="11"/><rect x="423" y="78" width="11" height="11"/>
+    <rect x="78" y="423" width="11" height="11"/><rect x="423" y="423" width="11" height="11"/>
+  </g>
+  <g>
+    <rect x="171" y="146" width="170" height="220" rx="6" fill="#FBF9F4" stroke="#3A342E" stroke-width="11"/>
+    <path d="M 293 146 L 341 194 L 293 194 Z" fill="#B54A3F"/>
+    <line x1="200" y1="236" x2="312" y2="236" stroke="#3A342E" stroke-width="8" stroke-linecap="round"/>
+    <line x1="200" y1="270" x2="312" y2="270" stroke="#3A342E" stroke-width="8" stroke-linecap="round"/>
+    <line x1="200" y1="304" x2="272" y2="304" stroke="#B54A3F" stroke-width="8" stroke-linecap="round"/>
+  </g>
+  <text x="256" y="416" font-family="serif" font-size="30" fill="#B54A3F" text-anchor="middle" letter-spacing="6">一日一页</text>
+</svg>

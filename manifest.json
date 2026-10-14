@@ -1,0 +1,20 @@
+{
+  "name": "手账 · 每天一张纸",
+  "short_name": "手账 · 每天一",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#7A9E7E",
+  "theme_color": "#7A9E7E",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
